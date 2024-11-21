@@ -23,3 +23,10 @@ c=x+y;
 printf("\nSUM is: %d", c);
 }
 square(int a)
+{
+printf("\nSQUARE is: %d", a*a);
+}
+cube(int b)
+{
+printf("\nCUBE is: %d", b*b*b);
+}
